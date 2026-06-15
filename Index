@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon Portfolio</title>
+</head>
+<body>
+
+    <h1>Bonjour, je suis Votre Nom</h1>
+
+    <p>Développeur Web passionné.</p>
+
+    <h2>Mes projets</h2>
+
+    <ul>
+        <li>Site vitrine</li>
+        <li>Application météo</li>
+        <li>Blog personnel</li>
+    </ul>
+
+</body>
+</html>
